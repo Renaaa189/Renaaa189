@@ -70,7 +70,7 @@
 - [ChatBot AI](https://github.com/Renaaa189/ChatbotConIA)  
    
 
-- [Escaner de red](https://github.com/Renaaa189/Escaner-de-red-)  
+- [NetStat](https://github.com/Renaaa189/Escaner-de-red-)  
   Es un programa que funciona para poder escanear IPs de una forma en la que facilite el acceso y la visibilidad de datos sobre los dispositivos conectados y activos en la red. 
 
 <br><br>
