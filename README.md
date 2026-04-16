@@ -60,7 +60,7 @@
 -  [TuBuffet](https://github.com/Renaaa189/TuBuffet)  
   Es una aplicación que permite realizar pedidos de forma virtual, rápida y sencilla, evitando esperas innecesarias y mejorando la experiencia general dentro del ámbito escolar.
 
--  [Acisum](https://github.com/Renaaa189/nextRead)  
+-  [Acisum]([https://github.com/Renaaa189/nextRead](https://github.com/Santino7537/Acisum))  
   Acisum es una aplicación web social orientada al aprendizaje musical, tanto teórico como práctico, en la cual cualquier persona, con o sin conocimientos previos, puede ingresar, aprender y practicar con lecciones didácticas divididas por secciones tematizadas.
 
 #### Finalizados:
