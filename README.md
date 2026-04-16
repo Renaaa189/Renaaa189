@@ -60,7 +60,7 @@
 -  [TuBuffet](https://github.com/Renaaa189/TuBuffet)  
   Es una aplicación que permite realizar pedidos de forma virtual, rápida y sencilla, evitando esperas innecesarias y mejorando la experiencia general dentro del ámbito escolar.
 
--  [Acisum]([https://github.com/Renaaa189/nextRead](https://github.com/Santino7537/Acisum))  
+-  [Acisum](https://github.com/Renaaa189/nextRead)  
   Acisum es una aplicación web social orientada al aprendizaje musical, tanto teórico como práctico, en la cual cualquier persona, con o sin conocimientos previos, puede ingresar, aprender y practicar con lecciones didácticas divididas por secciones tematizadas.
 
 #### Finalizados:
@@ -70,7 +70,7 @@
 - [ChatBot AI](https://github.com/Renaaa189/ChatbotConIA)  
    
 
-- [NetStat](https://github.com/Renaaa189/Escaner-de-red-)  
+- [Escaner de red](https://github.com/Renaaa189/Escaner-de-red-)  
   Es un programa que funciona para poder escanear IPs de una forma en la que facilite el acceso y la visibilidad de datos sobre los dispositivos conectados y activos en la red. 
 
 <br><br>
@@ -82,16 +82,17 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Estadísticas
 
+
+
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Renaaa189&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renaaa189&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Renaaa189&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&v=3" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renaaa189&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&v=3" />
 </p>
 
 <p align="center">
-  <img height="150em" src="https://streak-stats.demolab.com?user=Renaaa189&theme=tokyonight&hide_border=true" />
+  <img height="150em" src="https://streak-stats.demolab.com?user=Renaaa189&theme=tokyonight&hide_border=true&cache_seconds=1800&v=3" />
 </p>
 
-<br>
 
 ## 📫 Contactame
 
