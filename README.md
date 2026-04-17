@@ -16,43 +16,68 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Tecnologías
 
 <table align="center">
+
   <tr>
     <td align="center"><b>Frontend</b></td>
     <td align="center"><b>Backend</b></td>
     <td align="center"><b>Base de Datos</b></td>
+    <td align="center"><b>Diseño</b></td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,react" /><br>
+      <sub>HTML • CSS • JavaScript • React</sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,java,python" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,java,python" /><br>
+      <sub>Node.js • Express.js • Java • Python</sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" />
+      <img src="https://skillicons.dev/icons?i=mysql" /><br>
+      <sub>MySQL</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=figma" /><br>
+      <sub>Figma • UX/UI</sub>
     </td>
   </tr>
 
+</table>
+
+<br>
+
+<table align="center">
+
   <tr>
-    <td align="center"><b>APIs</b></td>
-    <td align="center"><b>UX/UI</b></td>
+    <td align="center"><b>APIs & Backend Tools</b></td>
     <td align="center"><b>Herramientas</b></td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=fastapi" />
+      <img src="https://skillicons.dev/icons?i=fastapi" /><br>
+      <sub>FastAPI</sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=figma" /><br>
-      <sub>UX • UI</sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode,eclipse" />
+      <img src="https://skillicons.dev/icons?i=vscode,eclipse" /><br>
+      <sub>VS Code • Eclipse</sub>
     </td>
   </tr>
+
 </table>
+
+<br>
+
+<p align="center">
+  <sub>Otras tecnologías</sub>
+</p>
+ 
+<p align="center">
+  <img src="https://img.shields.io/badge/Sequelize-ORM-52B0E7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Streamlit-Framework-ff4b4b?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq-AI_API-8e44ad?style=flat-square"/>
+</p>
 
 ### Mis proyectos
 
@@ -60,17 +85,18 @@
 -  [TuBuffet](https://github.com/Renaaa189/TuBuffet)  
   Es una aplicación que permite realizar pedidos de forma virtual, rápida y sencilla, evitando esperas innecesarias y mejorando la experiencia general dentro del ámbito escolar.
 
--  [Acisum](https://github.com/Renaaa189/nextRead)  
-  Acisum es una aplicación web social orientada al aprendizaje musical, tanto teórico como práctico, en la cual cualquier persona, con o sin conocimientos previos, puede ingresar, aprender y practicar con lecciones didácticas divididas por secciones tematizadas.
+-  [Knowbeat](https://github.com/Santino7537/Knowbeat.git)  
+  KnowBeat es una aplicación web social orientada al aprendizaje musical, tanto teórico como práctico, en la cual cualquier persona, con o sin conocimientos previos, puede ingresar, aprender y practicar con lecciones didácticas divididas por secciones tematizadas.
 
 #### Finalizados:
--  [NextRead](https://github.com/Renaaa189/nextRead)  
+-  [NextRead](https://github.com/AlejoGuerraa/nextRead.git)  
   Una aplicación moderna y social con multiples funcionalidades para descubrir, compartir y conectar a partir de libros.
 
-- [ChatBot AI](https://github.com/Renaaa189/ChatbotConIA)  
+- [Nexora](https://github.com/Renaaa189/Nexora.git)  
+  Es un chatbot con inteligencia artificial desarrollado en Python que permite mantener conversaciones con un modelo de lenguaje avanzado
    
 
-- [Escaner de red](https://github.com/Renaaa189/Escaner-de-red-)  
+- [NetStat](https://github.com/Renaaa189/NetStat.git)  
   Es un programa que funciona para poder escanear IPs de una forma en la que facilite el acceso y la visibilidad de datos sobre los dispositivos conectados y activos en la red. 
 
 <br><br>
