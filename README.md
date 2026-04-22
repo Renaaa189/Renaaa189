@@ -56,6 +56,7 @@
   <img src="https://img.shields.io/badge/Streamlit-Framework-ff4b4b?style=flat-square&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Groq-AI_API-8e44ad?style=flat-square"/>
 </p>
+
 ### Mis proyectos
 
 #### En desarrollo:
