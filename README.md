@@ -21,7 +21,7 @@
     <td align="center"><b>Frontend</b></td>
     <td align="center"><b>Backend</b></td>
     <td align="center"><b>Base de Datos</b></td>
-    <td align="center"><b>Diseño</b></td>
+    <td align="center"><b>Herramientas</b></td>
   </tr>
 
   <tr>
@@ -38,30 +38,8 @@
       <sub>MySQL</sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=figma" /><br>
-      <sub>Figma • UX/UI</sub>
-    </td>
-  </tr>
-
-</table>
-
-<br>
-
-<table align="center">
-
-  <tr>
-    <td align="center"><b>APIs & Backend Tools</b></td>
-    <td align="center"><b>Herramientas</b></td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=fastapi" /><br>
-      <sub>FastAPI</sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode,eclipse" /><br>
-      <sub>VS Code • Eclipse</sub>
+      <img src="https://skillicons.dev/icons?i=vscode,eclipse,figma" /><br>
+      <sub>VS Code • Eclipse • Figma </sub>
     </td>
   </tr>
 
@@ -78,7 +56,6 @@
   <img src="https://img.shields.io/badge/Streamlit-Framework-ff4b4b?style=flat-square&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Groq-AI_API-8e44ad?style=flat-square"/>
 </p>
-
 ### Mis proyectos
 
 #### En desarrollo:
