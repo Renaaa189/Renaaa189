@@ -83,20 +83,17 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2f2f2f,100:3a3a3a&height=2" />
 </p>
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Estadísticas
 
-
-
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Renaaa189&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&v=3" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renaaa189&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&v=3" />
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Renaaa189&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Renaaa189&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img height="150em" src="https://streak-stats.demolab.com?user=Renaaa189&theme=tokyonight&hide_border=true&cache_seconds=1800&v=3" />
+  <img height="170em" src="https://streak-stats.demolab.com?user=Renaaa189&theme=tokyonight&hide_border=true" />
 </p>
-
 
 ## 📫 Contactame
 
