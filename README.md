@@ -79,11 +79,12 @@
 
 <br><br>
 
-<!-- separador sutil -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2f2f2f,100:3a3a3a&height=2" />
 </p>
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Estadísticas
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Estadísticas
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Renaaa189&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
