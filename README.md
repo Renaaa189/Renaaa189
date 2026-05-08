@@ -1,5 +1,6 @@
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Renata%20Gallucci&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudiante%20de%20Computación%20%7C%20UX%2FUI%20%7C%20BackEnd&descAlignY=60&descSize=18" />
+  <img src="https://raw.githubusercontent.com/Renaaa189/Renaaa189/main/banner.svg" alt="Renata Gallucci Banner"/>
 </p>
 
 <p align="center">
