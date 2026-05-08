@@ -1,6 +1,5 @@
-<!-- Banner -->
 <p align="center">
-  <img src="./Renaaa189/Banner.svg" width="100%" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Renata%20Gallucci&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudiante%20de%20Computación%20%7C%20UX%2FUI%20%7C%20BackEnd&descAlignY=60&descSize=18" />
 </p>
 
 <p align="center">
@@ -9,45 +8,56 @@
 
 ## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="25"> Sobre mí
 
-- Soy estudiante de último año en la Escuela Técnica N°36 📚  
-- Complementé mis estudios con cursos orientados al diseño web y UX/UI 💻  
-- Actualmente mi objetivo es seguir aprendiendo, participar en proyectos y crecer dentro del mundo de la tecnología 🤖  
-
-<br>
+- Soy estudiante de ultimo año en la Escuela técnica N°36 📚
+- Complementé mis estudios con cursos orientados al diseño web y UX/UI 💻
+- Actualmente mi objetivo es seguir aprendiendo, participar en proyectos y crecer dentro del mundo de la tecnología🤖
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Tecnologías
 
 <table align="center">
+<tr>
+<td align="center" width="220">
 
-  <tr>
-    <td align="center"><b>Frontend</b></td>
-    <td align="center"><b>Backend</b></td>
-    <td align="center"><b>Base de Datos</b></td>
-    <td align="center"><b>Herramientas</b></td>
-  </tr>
+### Frontend
 
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,react" /><br>
-      <sub>HTML • CSS • JavaScript • React</sub>
-    </td>
+<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
 
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,java,python" /><br>
-      <sub>Node.js • Express.js • Java • Python</sub>
-    </td>
+<sub>HTML • CSS • JavaScript • React</sub>
 
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" /><br>
-      <sub>MySQL</sub>
-    </td>
+</td>
 
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode,eclipse,figma" /><br>
-      <sub>VS Code • Eclipse • Figma</sub>
-    </td>
-  </tr>
+<td align="center" width="220">
 
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,python"/>
+
+<sub>Node.js • Express.js • Java • Python</sub>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="220">
+
+### Base de Datos
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<sub>MySQL</sub>
+
+</td>
+
+<td align="center" width="220">
+
+### Herramientas
+
+<img src="https://skillicons.dev/icons?i=vscode,eclipse,figma"/>
+
+<sub>VS Code • Eclipse • Figma</sub>
+
+</td>
+</tr>
 </table>
 
 <br>
@@ -62,30 +72,31 @@
   <img src="https://img.shields.io/badge/Groq-AI_API-8e44ad?style=flat-square"/>
 </p>
 
----
+### Mis proyectos
 
-# 🚀 Mis proyectos
+#### En desarrollo:
 
-## 🛠️ En desarrollo
+- [TuBuffet](https://github.com/Renaaa189/TuBuffet)
+  
+  Es una aplicación que permite realizar pedidos de forma virtual, rápida y sencilla, evitando esperas innecesarias y mejorando la experiencia general dentro del ámbito escolar.
 
-### 🔹 [TuBuffet](https://github.com/Renaaa189/TuBuffet)
-Aplicación web que permite realizar pedidos escolares de forma virtual, rápida y sencilla, evitando filas y mejorando la experiencia dentro del ámbito escolar.
+- [Knowbeat](https://github.com/Santino7537/Knowbeat.git)
+  
+  KnowBeat es una aplicación web social orientada al aprendizaje musical, tanto teórico como práctico, en la cual cualquier persona, con o sin conocimientos previos, puede ingresar, aprender y practicar con lecciones didácticas divididas por secciones tematizadas.
 
-### 🔹 [KnowBeat](https://github.com/Santino7537/Knowbeat.git)
-Aplicación web social orientada al aprendizaje musical teórico y práctico, con lecciones didácticas organizadas por secciones temáticas.
+#### Finalizados:
 
----
+- [NextRead](https://github.com/AlejoGuerraa/nextRead.git)
+  
+  Una aplicación moderna y social con multiples funcionalidades para descubrir, compartir y conectar a partir de libros.
 
-## ✅ Finalizados
+- [Nexora](https://github.com/Renaaa189/Nexora.git)
+  
+  Es un chatbot con inteligencia artificial desarrollado en Python que permite mantener conversaciones con un modelo de lenguaje avanzado
 
-### 🔹 [NextRead](https://github.com/AlejoGuerraa/nextRead.git)
-Aplicación moderna y social para descubrir, compartir y conectar personas a través de libros.
-
-### 🔹 [Nexora](https://github.com/Renaaa189/Nexora.git)
-Chatbot con inteligencia artificial desarrollado en Python que permite mantener conversaciones con un modelo de lenguaje avanzado.
-
-### 🔹 [NetStat](https://github.com/Renaaa189/NetStat.git)
-Herramienta para escaneo de IPs y visualización de dispositivos activos dentro de una red.
+- [NetStat](https://github.com/Renaaa189/NetStat.git)
+  
+  Es un programa que funciona para poder escanear IPs de una forma en la que facilite el acceso y la visibilidad de datos sobre los dispositivos conectados y activos en la red.
 
 <br><br>
 
@@ -105,12 +116,9 @@ Herramienta para escaneo de IPs y visualización de dispositivos activos dentro 
   <img height="170em" src="https://streak-stats.demolab.com?user=Renaaa189&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
 ## 📫 Contactame
 
 <p align="center">
-
   <a href="https://www.linkedin.com/in/renata-gallucci-/">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
   </a>
@@ -118,10 +126,10 @@ Herramienta para escaneo de IPs y visualización de dispositivos activos dentro 
   <a href="mailto:renatagallucci3@gmail.com">
     <img src="https://img.icons8.com/doodle/40/000000/gmail-new.png"/>
   </a>
-
 </p>
 
 <!-- Footer -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=65&section=footer"/>
 </p>
