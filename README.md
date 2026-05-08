@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./Renaaa189/banner.svg" width="100%" alt="Banner"/>
+  <img src="./Renaaa189/Banner.svg" width="100%" alt="Banner"/>
 </p>
 
 <p align="center">
