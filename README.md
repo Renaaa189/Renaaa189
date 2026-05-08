@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./Banner/banner.svg" width="100%" alt="Renata Gallucci Banner"/>
+  <img src="./Renaaa189/banner.svg" width="100%" alt="Banner"/>
 </p>
 
 <p align="center">
