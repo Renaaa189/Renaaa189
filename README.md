@@ -1,6 +1,5 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Renaaa189/Renaaa189/main/banner.svg" alt="Renata Gallucci Banner"/>
+  <img src="https://raw.githubusercontent.com/Renaaa189/Renaaa189/main/Banner.svg" alt="Renata Gallucci Banner"/>
 </p>
 
 <p align="center">
