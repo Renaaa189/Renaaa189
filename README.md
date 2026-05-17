@@ -8,71 +8,74 @@
 
 ## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="25"> Sobre mí
 
-- Soy estudiante de ultimo año en la Escuela técnica N°36 📚
-- Complementé mis estudios con cursos orientados al diseño web y UX/UI 💻
-- Actualmente mi objetivo es seguir aprendiendo, participar en proyectos y crecer dentro del mundo de la tecnología🤖
+- Soy estudiante de último año en la Escuela técnica N°36 
+- Complementé mis estudios con cursos orientados al diseño web y UX/UI 
+- Actualmente mi objetivo es seguir aprendiendo, participar en proyectos y crecer dentro del mundo de la tecnología
+- Conoce más sobre mi accediendo a mi [portafolio](https://renaaa189.github.io/)!
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Tecnologías
 
 <table align="center">
+
 <tr>
-<td align="center" width="220">
+<td align="center" width="260">
 
-### Frontend
+###  Lenguajes
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+<img src="https://skillicons.dev/icons?i=js,python,java" />
 
-<sub>HTML • CSS • JavaScript • React</sub>
+<sub> JavaScript • Python • Java</sub>
 
 </td>
 
-<td align="center" width="220">
+<td align="center" width="260">
 
-### Backend
+###  Frontend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,python"/>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
 
-<sub>Node.js • Express.js • Java • Python</sub>
+<sub>HTML • CSS • React</sub>
 
 </td>
 </tr>
 
 <tr>
-<td align="center" width="220">
+<td align="center" width="260">
 
-### Base de Datos
+###  Backend
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+<sub>Node.js • Express • Sequelize</sub>
+
+</td>
+
+<td align="center" width="260">
+
+### Base de datos
+
+<img src="https://skillicons.dev/icons?i=mysql" />
 
 <sub>MySQL</sub>
 
 </td>
+</tr>
 
-<td align="center" width="220">
+<tr>
+<td colspan="2" align="center">
 
-### Herramientas
+###  Herramientas
 
-<img src="https://skillicons.dev/icons?i=vscode,eclipse,figma"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,eclipse" />
 
-<sub>VS Code • Eclipse • Figma</sub>
+<sub>VS Code • Git • GitHub • Figma • Eclipse</sub>
 
 </td>
 </tr>
+
 </table>
 
-<br>
-
-<p align="center">
-  <sub>Otras tecnologías</sub>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Sequelize-ORM-52B0E7?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Streamlit-Framework-ff4b4b?style=flat-square&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Groq-AI_API-8e44ad?style=flat-square"/>
-</p>
-
-### Mis proyectos
+## 🤖 Mis proyectos
 
 #### En desarrollo:
 
@@ -89,16 +92,23 @@
 - [NextRead](https://github.com/AlejoGuerraa/nextRead.git)
   
   Una aplicación moderna y social con multiples funcionalidades para descubrir, compartir y conectar a partir de libros.
+  La misma fue desarrolladda en JavaScript manteniendo una interfaz de usuario amigable y simple para el usuario
 
 - [Nexora](https://github.com/Renaaa189/Nexora.git)
   
-  Es un chatbot con inteligencia artificial desarrollado en Python que permite mantener conversaciones con un modelo de lenguaje avanzado
+  Es un chatbot con inteligencia artificial desarrollado en Python que permite mantener conversaciones con un modelo de lenguaje avanzado.
 
 - [NetStat](https://github.com/Renaaa189/NetStat.git)
   
-  Es un programa que funciona para poder escanear IPs de una forma en la que facilite el acceso y la visibilidad de datos sobre los dispositivos conectados y activos en la red.
+  Es un programa desarrollado en Java que funciona para poder escanear IPs de una forma en la que facilite el acceso y la visibilidad de datos sobre los dispositivos conectados y activos en la red.
+
+- [Almendra](https://github.com/Renaaa189/Almendra.git)
+
+  Almendra es un proyecto de diseño y desarollo frontend creado para practicar y mejorar habilidades de la composición visual, experiencia de usuario, diseño frontend, etc.
 
 <br><br>
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2f2f2f,100:3a3a3a&height=2" />
