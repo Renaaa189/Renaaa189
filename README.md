@@ -79,30 +79,30 @@
 
 #### En desarrollo:
 
-- [TuBuffet](https://github.com/Renaaa189/TuBuffet)
+- ### [TuBuffet](https://github.com/Renaaa189/TuBuffet)
   
   Es una aplicación que permite realizar pedidos de forma virtual, rápida y sencilla, evitando esperas innecesarias y mejorando la experiencia general dentro del ámbito escolar.
 
-- [Knowbeat](https://github.com/Santino7537/Knowbeat.git)
+- ### [Knowbeat](https://github.com/Santino7537/Knowbeat.git)
   
   KnowBeat es una aplicación web social orientada al aprendizaje musical, tanto teórico como práctico, en la cual cualquier persona, con o sin conocimientos previos, puede ingresar, aprender y practicar con lecciones didácticas divididas por secciones tematizadas.
 
 #### Finalizados:
 
-- [NextRead](https://github.com/AlejoGuerraa/nextRead.git)
+- ### [NextRead](https://github.com/AlejoGuerraa/nextRead.git)
   
   Una aplicación moderna y social con multiples funcionalidades para descubrir, compartir y conectar a partir de libros.
   La misma fue desarrolladda en JavaScript manteniendo una interfaz de usuario amigable y simple para el usuario
 
-- [Nexora](https://github.com/Renaaa189/Nexora.git)
+- ### [Nexora](https://github.com/Renaaa189/Nexora.git)
   
-  Es un chatbot con inteligencia artificial desarrollado en Python que permite mantener conversaciones con un modelo de lenguaje avanzado.
+  Es un chatbot con inteligencia artificial desarrollado en Python y utilizando diferentes tecnologias que permite mantener conversaciones con un modelo de lenguaje avanzado manteniendo una interfaz clara y amigable.
 
-- [NetStat](https://github.com/Renaaa189/NetStat.git)
+- ### [NetStat](https://github.com/Renaaa189/NetStat.git)
   
   Es un programa desarrollado en Java que funciona para poder escanear IPs de una forma en la que facilite el acceso y la visibilidad de datos sobre los dispositivos conectados y activos en la red.
 
-- [Almendra](https://github.com/Renaaa189/Almendra.git)
+- ### [Almendra](https://github.com/Renaaa189/Almendra.git)
 
   Almendra es un proyecto de diseño y desarollo frontend creado para practicar y mejorar habilidades de la composición visual, experiencia de usuario, diseño frontend, etc.
 
