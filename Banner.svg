@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 450" width="100%" height="100%">
   <defs>
-    <!-- Importación de fuentes premium desde Google Fonts -->
+
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;700;800&amp;family=Inter:wght@400;500&amp;display=swap');
 
@@ -31,7 +31,7 @@
         fill: #ff6097;
       }
 
-      /* --- ANIMACIONES CINEMÁTICAS LENTAS --- */
+      /* --- ANIMACIONES CINEMÁTICAS --- */
       /* Flotado suave del núcleo artístico izquierdo */
       @keyframes floatArt {
         0% { transform: translateY(0px) rotate(0deg); }
@@ -77,15 +77,17 @@
         animation: pulseGlow 9s ease-in-out infinite;
       }
 
-      /* Animación de micro-partículas flotantes */
-      @keyframes particleFloat {
-        0% { transform: translateY(0px) translateX(0px); opacity: 0.1; }
-        50% { transform: translateY(-25px) translateX(10px); opacity: 0.6; }
-        100% { transform: translateY(0px) translateX(0px); opacity: 0.1; }
+      /* Centelleo estelar para las constelaciones */
+      @keyframes starBlink {
+        0%, 100% { opacity: 0.3; transform: scale(0.8); }
+        50% { opacity: 1; transform: scale(1.2); }
       }
-      .part-1 { animation: particleFloat 7s ease-in-out infinite; }
-      .part-2 { animation: particleFloat 9s ease-in-out infinite 2s; }
-      .part-3 { animation: particleFloat 11s ease-in-out infinite 4s; }
+      .star {
+        animation: starBlink 4s ease-in-out infinite;
+        transform-origin: center;
+      }
+      .star-fast { animation: starBlink 3s ease-in-out infinite 1s; transform-origin: center; }
+      .star-slow { animation: starBlink 6s ease-in-out infinite 2s; transform-origin: center; }
 
       /* Animación del subrayado fluido */
       @keyframes lineDraw {
@@ -110,9 +112,9 @@
 
     <!-- Degradados Premium -->
     <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#05060f" />
-      <stop offset="50%" stop-color="#0a0c16" />
-      <stop offset="100%" stop-color="#020306" />
+      <stop offset="0%" stop-color="#04050d" />
+      <stop offset="50%" stop-color="#080a14" />
+      <stop offset="100%" stop-color="#010205" />
     </linearGradient>
     <linearGradient id="cyber-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#ff6097" />
@@ -129,22 +131,54 @@
   <!-- Fondo Principal -->
   <rect width="1400" height="450" fill="url(#bg-grad)" />
 
-  <!-- Nebulosas de Luz e Iluminación de Fondo (Glows) -->
+
   <circle cx="1250" cy="60" r="280" fill="#9d4edd" class="anim-glow" />
   <circle cx="1100" cy="30" r="190" fill="#3a86ff" opacity="0.2" filter="url(#glass-blur)" />
   <circle cx="250" cy="225" r="250" fill="#ff6097" opacity="0.14" filter="url(#glass-blur)" />
+  <g stroke="#ffffff" stroke-opacity="0.06" stroke-width="0.75" fill="none">
+    <!-- Constelación 1: Zona Superior Central -->
+    <polyline points="450,60 520,40 580,90 640,70 610,130" />
+    <circle cx="450" cy="60" r="2" fill="#3a86ff" fill-opacity="0.8" class="star" />
+    <circle cx="520" cy="40" r="1.5" fill="#ffffff" fill-opacity="0.9" class="star-slow" />
+    <circle cx="580" cy="90" r="2.5" fill="#ff6097" fill-opacity="0.8" class="star-fast" />
+    <circle cx="640" cy="70" r="1.5" fill="#ffffff" fill-opacity="0.5" />
+    <circle cx="610" cy="130" r="2" fill="#9d4edd" fill-opacity="0.8" class="star" />
+
+    <!-- Constelación 2: Zona Inferior Central -->
+    <polyline points="380,350 460,380 550,340 620,390 710,360" />
+    <line x1="460" y1="380" x2="520" y2="420" />
+    <circle cx="380" cy="350" r="1.5" fill="#ffffff" fill-opacity="0.6" />
+    <circle cx="460" cy="380" r="2" fill="#3a86ff" fill-opacity="0.7" class="star-fast" />
+    <circle cx="550" cy="340" r="2.5" fill="#ffffff" fill-opacity="0.9" class="star" />
+    <circle cx="620" cy="390" r="1.5" fill="#9d4edd" fill-opacity="0.6" class="star-slow" />
+    <circle cx="710" cy="360" r="2" fill="#ff6097" fill-opacity="0.8" class="star" />
+    <circle cx="520" cy="420" r="1.5" fill="#ffffff" fill-opacity="0.5" />
+
+    <!-- Constelación 3: Extremo Derecho -->
+    <polyline points="1200,280 1280,240 1350,290 1290,340 1200,280" />
+    <circle cx="1200" cy="280" r="2" fill="#ffffff" fill-opacity="0.8" class="star-slow" />
+    <circle cx="1280" cy="240" r="2.5" fill="#3a86ff" fill-opacity="0.9" class="star" />
+    <circle cx="1350" cy="290" r="1.5" fill="#ffffff" fill-opacity="0.6" />
+    <circle cx="1290" cy="340" r="2" fill="#ff6097" fill-opacity="0.7" class="star-fast" />
+
+    <!-- Estrellas fugaces o micro-puntos sueltos de fondo -->
+    <circle cx="850" cy="50" r="1" fill="#ffffff" opacity="0.3" class="star-slow" />
+    <circle cx="1000" cy="180" r="1" fill="#ffffff" opacity="0.5" class="star" />
+    <circle cx="780" cy="250" r="1.5" fill="#ffffff" opacity="0.4" class="star-fast" />
+    <circle cx="150" cy="80" r="1" fill="#ffffff" opacity="0.3" />
+  </g>
 
   <!-- Grilla Editorial Fina Minimalista -->
-  <g stroke="#ffffff" stroke-width="1" fill="none" opacity="0.02">
+  <g stroke="#ffffff" stroke-width="1" fill="none" opacity="0.015">
     <path d="M 0,75 L 1400,75 M 0,150 L 1400,150 M 0,225 L 1400,225 M 0,300 L 1400,300 M 0,375 L 1400,375" />
     <path d="M 250,0 L 250,450 M 550,0 L 550,450 M 950,0 L 950,450" />
   </g>
 
   <!-- Ondas Fluidas Vectoriales Reorganizadas -->
-  <path d="M-100,250 C250,120 450,420 850,280 C1150,150 1300,390 1500,320" fill="none" stroke="url(#cyber-gradient)" stroke-width="1.25" opacity="0.2" class="anim-wave" />
-  <path d="M-50,270 C300,160 400,400 800,300 C1100,190 1350,350 1550,340" fill="none" stroke="#ffffff" stroke-width="1" stroke-dasharray="6 6" opacity="0.08" />
+  <path d="M-100,250 C250,120 450,420 850,280 C1150,150 1300,390 1500,320" fill="none" stroke="url(#cyber-gradient)" stroke-width="1.25" opacity="0.18" class="anim-wave" />
+  <path d="M-50,270 C300,160 400,400 800,300 C1100,190 1350,350 1550,340" fill="none" stroke="#ffffff" stroke-width="1" stroke-dasharray="6 6" opacity="0.06" />
 
-  <!-- Geometría Técnica Fractal (Arriba Derecha) -->
+  <!-- Geometría Técnico Fractal (Arriba Derecha) -->
   <g class="anim-rotate-right" opacity="0.25">
     <circle cx="1150" cy="120" r="45" fill="none" stroke="#ffffff" stroke-width="1" />
     <circle cx="1150" cy="120" r="49" fill="none" stroke="#ff6097" stroke-width="0.75" stroke-dasharray="3 5" />
@@ -152,67 +186,36 @@
     <line x1="1150" y1="60" x2="1150" y2="180" stroke="#ffffff" stroke-width="0.5" />
   </g>
 
-
-  <!-- ================= LADO IZQUIERDO: ARTE ABSTRACTO GEOMÉTRICO (NÚCLEO PREMIUM) ================= -->
   <g class="anim-art">
-    <!-- Órbitas rotativas concéntricas -->
     <g class="anim-rotate-slow" opacity="0.3">
       <ellipse cx="250" cy="225" rx="130" ry="60" fill="none" stroke="url(#cyber-gradient)" stroke-width="1" stroke-dasharray="4 8" />
       <ellipse cx="250" cy="225" rx="70" ry="150" fill="none" stroke="#ffffff" stroke-width="0.5" opacity="0.5" />
       <circle cx="250" cy="225" r="160" fill="none" stroke="#3a86ff" stroke-width="0.75" stroke-dasharray="20 180" />
     </g>
 
-    <!-- Elemento Escultórico Central: Esferas de Cristal Líquido -->
     <circle cx="250" cy="225" r="45" fill="url(#cyber-gradient)" opacity="0.15" filter="url(#artwork-glow)" />
     <circle cx="250" cy="225" r="35" fill="none" stroke="#ffffff" stroke-width="1.5" stroke-opacity="0.7" filter="url(#artwork-glow)" />
     
-    <!-- Anillo técnico flotante con retícula -->
     <circle cx="250" cy="225" r="22" fill="none" stroke="#ff6097" stroke-width="1" stroke-dasharray="3 3" />
     <circle cx="250" cy="225" r="8" fill="#ffffff" opacity="0.9" />
 
-    <!-- Cruz técnica de calibración de diseño -->
     <g stroke="#ffffff" stroke-width="0.75" opacity="0.3">
       <line x1="250" y1="140" x2="250" y2="310" />
       <line x1="165" y1="225" x2="335" y2="225" />
-      <!-- Cuadrante decorativo -->
       <rect x="210" y="185" width="80" height="80" fill="none" stroke="#ffffff" stroke-width="0.5" stroke-dasharray="2 4" />
     </g>
-
-    <!-- Micro-partículas atmosféricas exclusivas de la zona artística -->
-    <circle cx="140" cy="150" r="2" fill="#ff6097" class="part-1" />
-    <circle cx="360" cy="290" r="2.5" fill="#3a86ff" class="part-2" />
-    <circle cx="290" cy="120" r="1.5" fill="#9d4edd" class="part-3" />
-    <circle cx="120" cy="280" r="2" fill="#ffffff" class="part-2" opacity="0.5" />
   </g>
 
 
-  <!-- ================= LADO DERECHO: COMPOSICIÓN TIPOGRÁFICA DE ALTO IMPACTO ================= -->
   <g transform="translate(500, 0)">
-    
-    <!-- Guía Vertical Conectora Artística -->
     <line x1="-40" y1="120" x2="-40" y2="320" stroke="#9d4edd" stroke-width="1.5" opacity="0.4" />
     
-    <!-- Nombre: RENATA (Montserrat Heavy 800) -->
-    <text x="0" y="205" class="text-renata" fill="url(#text-mesh)">Renata<tspan class="pink-accent">.</tspan></text>
+    <text x="0" y="235" class="text-renata" fill="url(#text-mesh)">Renata<tspan class="pink-accent">.</tspan></text>
+    <text x="4" y="295" class="text-gallucci">Gallucci</text>
     
-    <!-- Apellido: GALLUCCI (Montserrat Light 300) -->
-    <text x="4" y="265" class="text-gallucci">Gallucci</text>
-    
-    <!-- Subtítulo e Indicador Dinámico (Inter Premium) -->
-    <g transform="translate(6, 320)">
+    <g transform="translate(6, 350)">
       <text x="0" y="0" class="text-sub">Estudiante de computación — Desarrollo full-stack</text>
-      
-      <!-- Línea de Subrayado de Carga Animada Premium -->
       <rect x="0" y="14" width="585" height="1.5" fill="url(#cyber-gradient)" class="anim-underline" />
     </g>
-
-    <!-- Micro-Data de Esquina Estilo Editorial Moderno -->
-    <text x="6" y="115" family="Inter" font-size="11" letter-spacing="2" fill="#ffffff" opacity="0.3" font-weight="500">ART.DIR // VISUAL_ARCH_2026</text>
-    <line x1="225" y1="111" x2="310" y2="111" stroke="#ffffff" stroke-width="0.5" opacity="0.2" />
-  </g>
-
-  <!-- Crédito Técnico Marginal Inferior Derecho -->
-  <g transform="translate(1260, 410)" opacity="0.15">
-    <text family="Inter" font-size="10" letter-spacing="2" fill="#ffffff" text-anchor="end">STUDIO DESIGN // GLOBAL NODE</text>
   </g>
 </svg>
