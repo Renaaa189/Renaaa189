@@ -77,7 +77,7 @@
 
 ## 🤖 Mis proyectos
 
-#### En desarrollo:
+### En desarrollo:
 
 - ### [TuBuffet](https://github.com/Renaaa189/TuBuffet)
   
@@ -87,7 +87,7 @@
   
   KnowBeat es una aplicación web social orientada al aprendizaje musical, tanto teórico como práctico, en la cual cualquier persona, con o sin conocimientos previos, puede ingresar, aprender y practicar con lecciones didácticas divididas por secciones tematizadas.
 
-#### Finalizados:
+### Finalizados:
 
 - ### [NextRead](https://github.com/AlejoGuerraa/nextRead.git)
   
