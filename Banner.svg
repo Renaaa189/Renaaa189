@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 450" width="100%" height="100%">
   <defs>
-
+    <!-- Importación de fuentes premium desde Google Fonts -->
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;700;800&amp;family=Inter:wght@400;500&amp;display=swap');
 
@@ -131,10 +131,12 @@
   <!-- Fondo Principal -->
   <rect width="1400" height="450" fill="url(#bg-grad)" />
 
-
+  <!-- Nebulosas de Luz e Iluminación de Fondo (Glows) -->
   <circle cx="1250" cy="60" r="280" fill="#9d4edd" class="anim-glow" />
   <circle cx="1100" cy="30" r="190" fill="#3a86ff" opacity="0.2" filter="url(#glass-blur)" />
   <circle cx="250" cy="225" r="250" fill="#ff6097" opacity="0.14" filter="url(#glass-blur)" />
+
+  <!-- ================= FONDO DE CONSTELACIONES ESTELARES ================= -->
   <g stroke="#ffffff" stroke-opacity="0.06" stroke-width="0.75" fill="none">
     <!-- Constelación 1: Zona Superior Central -->
     <polyline points="450,60 520,40 580,90 640,70 610,130" />
@@ -185,6 +187,7 @@
     <line x1="1090" y1="120" x2="1210" y2="120" stroke="#ffffff" stroke-width="0.5" />
     <line x1="1150" y1="60" x2="1150" y2="180" stroke="#ffffff" stroke-width="0.5" />
   </g>
+
 
   <g class="anim-art">
     <g class="anim-rotate-slow" opacity="0.3">
