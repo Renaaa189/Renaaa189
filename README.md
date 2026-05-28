@@ -52,7 +52,7 @@
 
 <td align="center" width="260">
 
-### Base de datos
+### Base de datos 
 
 <img src="https://skillicons.dev/icons?i=mysql" />
 
