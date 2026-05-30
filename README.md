@@ -106,6 +106,9 @@
 
   Almendra es un proyecto de diseño y desarollo frontend creado para practicar y mejorar habilidades de la composición visual, experiencia de usuario, diseño frontend, etc.
 
+-  ### [Hopmark](https://github.com/Renaaa189/Hopmark.git)
+
+   Hopmark es una aplicación full-stack de gestión académica que registra el progreso de estudiantes en distintas carreras universitarias. Cada calificación se transforma en un indicador visual de rendimiento representado por conejos, reflejando el desempeño académico de forma simple y simbólica.
 <br><br>
 
 
