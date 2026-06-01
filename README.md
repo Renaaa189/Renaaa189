@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2f2f2f,100:3a3a3a&height=2" />
 </p>
 
-## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="25"> Sobre mí
+## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="25"> Sobre mí 
 
 - Soy estudiante de último año en la Escuela técnica N°36 
 - Complementé mis estudios con cursos orientados al diseño web y UX/UI 
