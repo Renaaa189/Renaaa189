@@ -126,7 +126,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Renaaa189&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Renaaa189&theme=tokyonight&hide_border=true&cache_seconds=3600" />
 </p>
 
 ## 📫 Contactame
