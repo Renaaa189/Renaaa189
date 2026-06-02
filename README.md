@@ -126,7 +126,7 @@
 </p>
 
 <p align="center">
-  <img height="170em" src="https://streak-stats.demolab.com?user=Renaaa189&theme=tokyonight&hide_border=true" /> 
+  <img height="170em" src="https://streak-stats.demolab.com?user=Renaaa189&theme=tokyonight&hide_border=true&v=1" /> 
 </p>
 
 ## 📫 Contactame
