@@ -11,7 +11,7 @@
 - Soy estudiante de último año en la Escuela técnica N°36 
 - Complementé mis estudios con cursos orientados al diseño web y UX/UI 
 - Actualmente mi objetivo es seguir aprendiendo, participar en proyectos y crecer dentro del mundo de la tecnología
-- Conoce más sobre mi accediendo a mi [portafolio](https://renaaa189.github.io/)!
+- Conoce más sobre mi y mis proyectos accediendo a mi [portafolio](https://renaaa189.github.io/)!
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Tecnologías
 
