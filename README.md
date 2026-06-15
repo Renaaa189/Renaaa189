@@ -6,11 +6,11 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2f2f2f,100:3a3a3a&height=2" />
 </p>
 
-## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="25"> Sobre mí  
-
+## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="25"> Sobre mí
 
 - Soy estudiante del último año de la Escuela Técnica N.º 36 con interés en el desarrollo full-stack y la construcción de aplicaciones centradas en el usuario. A lo largo de mi formación complementé mis estudios con cursos orientados al diseño web, UX/UI y tecnologías de inteligencia artificial.
 - Actualmente busco seguir aprendiendo, colaborar en nuevos proyectos y continuar desarrollándome dentro del ámbito tecnológico.
+
 - Conoce más sobre mi accediendo a mí [portafolio](https://renaaa189.github.io/)!
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Tecnologías
@@ -44,7 +44,7 @@
 
 ###  Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,sequelize" />
 
 <sub>Node.js • Express • Sequelize</sub>
 
@@ -56,7 +56,7 @@
 
 <img src="https://skillicons.dev/icons?i=mysql" />
 
-<sub>MySQL</sub>
+<sub>MySQL </sub>
 
 </td>
 </tr>
@@ -126,9 +126,8 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Renaaa189&theme=tokyonight&hide_border=true&cache_seconds=3600" />
+  <img height="170em" src="https://streak-stats.demolab.com?user=Renaaa189&theme=tokyonight&hide_border=true" />
 </p>
-
 
 ## 📫 Contactame
 
