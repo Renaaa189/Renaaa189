@@ -8,10 +8,10 @@
 
 ## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="25"> Sobre mí  
 
-- Soy estudiante de último año en la Escuela técnica N°36 
-- Complementé mis estudios con cursos orientados al diseño web y UX/UI 
-- Actualmente mi objetivo es seguir aprendiendo, participar en proyectos y crecer dentro del mundo de la tecnología
-- Conoce más sobre mi y mis proyectos accediendo a mi [portafolio](https://renaaa189.github.io/)!
+
+- Soy estudiante del último año de la Escuela Técnica N.º 36 con interés en el desarrollo full-stack y la construcción de aplicaciones centradas en el usuario. A lo largo de mi formación complementé mis estudios con cursos orientados al diseño web, UX/UI y tecnologías de inteligencia artificial.
+- Actualmente busco seguir aprendiendo, colaborar en nuevos proyectos y continuar desarrollándome dentro del ámbito tecnológico.
+- Conoce más sobre mi accediendo a mí [portafolio](https://renaaa189.github.io/)!
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Tecnologías
 
