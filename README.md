@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Renaaa189/Renaaa189/main/Banner.svg" alt="Renata Gallucci Banner"/>
-</p> 
+</p>  
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2f2f2f,100:3a3a3a&height=2" />
