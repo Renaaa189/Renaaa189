@@ -16,7 +16,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Tecnologías
 
 <table align="center">
-
+  
 <tr>
 <td align="center" width="260">
 
