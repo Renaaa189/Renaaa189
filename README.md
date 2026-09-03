@@ -127,6 +127,10 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Estadísticas
 
 <p align="center">
+  <img height="170em" src="https://streak-stats.demolab.com?user=Renaaa189&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -141,10 +145,6 @@
       src="https://raw.githubusercontent.com/Renaaa189/Renaaa189/output/github-snake.svg"
     />
   </picture>
-</p>
-
-<p align="center">
-  <img height="170em" src="https://streak-stats.demolab.com?user=Renaaa189&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 📫 Contactame
