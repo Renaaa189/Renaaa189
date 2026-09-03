@@ -20,21 +20,31 @@
 <tr>
 <td align="center" width="260">
 
-###  Lenguajes
+### Lenguajes
 
 <img src="https://skillicons.dev/icons?i=js,python,java" />
 
-<sub> JavaScript • Python • Java</sub>
+<sub>JavaScript • Python • Java</sub>
 
 </td>
 
 <td align="center" width="260">
 
-###  Frontend
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,react" />
 
 <sub>HTML • CSS • React</sub>
+
+</td>
+
+<td align="center" width="260">
+
+### Aprendiendo
+
+<img src="https://skillicons.dev/icons?i=typescript,docker,mongodb" />
+
+<sub>TypeScript • Docker • MongoDB</sub>
 
 </td>
 </tr>
@@ -42,7 +52,7 @@
 <tr>
 <td align="center" width="260">
 
-###  Backend
+### Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize" />
 
@@ -52,19 +62,17 @@
 
 <td align="center" width="260">
 
-### Base de datos 
+### Base de datos
 
 <img src="https://skillicons.dev/icons?i=mysql" />
 
-<sub>MySQL </sub>
+<sub>MySQL</sub>
 
 </td>
-</tr>
 
-<tr>
-<td colspan="2" align="center">
+<td align="center" width="260">
 
-###  Herramientas
+### Herramientas
 
 <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,eclipse" />
 
